@@ -1,7 +1,14 @@
-# Lamini: Create Your Own ChatGPT For SQL
-[![License](https://img.shields.io/badge/License-CC%20By%204.0-green.svg)](/LICENSE.txt)
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/130713213?s=200&v=4" width="90"><img src="https://huggingface.co/lamini/instruct-peft-tuned-12b/resolve/main/Lamini_logo.png?max-height=90" height="90">
+</div>
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-CC%20By%204.0-green.svg)](https://github.com/lamini-ai/lamini-sql/blob/main/LICENSE)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+</div>
+
+# Lamini: Create Your Own ChatGPT For SQL
 
 This is the repo for the Lamini project, which aims to build and share an instruction-following model with CC-BY license that allows commercial use. The repo contains:
 
@@ -117,3 +124,14 @@ This file contains 52K instruction-following data for commercial use (ie. feel f
 
 ## About Lamini
 [Lamini](https://lamini.ai/) is the world's most powerful LLM engine, unlocking the power of generative AI for every company by putting their data to work. It is based on the [lamini tribe](https://en.wikipedia.org/wiki/Lamini), which includes llamas (LLMs!), alpacas, etc.
+
+---
+
+</div>
+<div align="center">
+
+![GitHub forks](https://img.shields.io/github/forks/lamini-ai/lamini-sql) &ensp; © Lamini &ensp; ![GitHub stars](https://img.shields.io/github/stars/lamini-ai/lamini-sql) 
+
+</div>
+
+--------
